@@ -1,0 +1,122 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial;
+}
+
+nav{
+    height: 70px;
+    display: flex;
+}
+
+.OSMAN{
+    color: white;
+    background-color: #2166EF;
+} 
+
+a {
+    color: white;
+}
+
+
+nav h2 {
+    margin: 0px;
+    padding: 20px 0px 20px 15px;
+}
+
+
+nav ul {
+display: flex;
+padding: 0px;
+margin: 24px;
+list-style: none;}
+
+nav li{
+    padding-left: 15px;
+}
+header{
+text-align: center;
+    padding: 40px;
+}
+.content{
+max-width: 800px;
+margin: 0 auto;
+}
+header h2 {
+    color: #2166EF;
+}
+header img { 
+    width: 300px;
+    height: 300px;
+    border-radius: 1000px;
+    box-shadow: 30px 30px 30px rgb( 170, 170, 170);
+    border: 3px solid #2166EF;
+}
+section{
+    padding: 40px;
+}
+#xp ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  #xp li {
+    margin-bottom: 10px;
+  }
+  
+  #xp aside {
+    float: right;
+    display: flex;
+    
+  }
+  #education ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  #education li {
+    margin-bottom: 10px;
+  }
+  
+  #education aside {
+    float: right;
+  }
+footer{
+    padding: 40px;
+}
+footer ul{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+.links {
+margin-bottom: 25px;
+display: inline-block;
+width: 390px;
+}
+.majid ul li{
+  color: black;
+}
+.majid{
+max-width: 800px;
+margin: 0 auto;
+}
+
+.jojo{
+    color: white;
+    background-color: #2166EF;
+} 
+
+a {
+    color: white;
+}
+.secondary-block{
+    color: white;
+    background-color: #2166EF;
+} 
+
+a {
+    color: white;
+}
